@@ -1,8 +1,8 @@
 class HellowWorld{
 
-	main(){
+	public static void main(String []args){
 
-		systom.out.println("Hello World");
+		systom.out.println("Hello World\n");
 	}
 
 }
