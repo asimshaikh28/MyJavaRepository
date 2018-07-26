@@ -1,0 +1,8 @@
+class HellowWorld{
+
+	main(){
+
+		systom.out.println("Hello World");
+	}
+
+}
