@@ -1,11 +1,5 @@
 class HellowWorld{
 
-void display(){
-}
-
-void myMethod(){
-system.out.println("Date funtion");
-}
 
 	public static void main(String []args){
 
