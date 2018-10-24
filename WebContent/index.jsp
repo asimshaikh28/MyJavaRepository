@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<% out.print("Build no :"+System.getenv("JAVA_HOME")); %>
+<% out.print("Build no :"+System.getenv("JENKINS_BUILDNO")); %>
 
 </body>
 </html>
