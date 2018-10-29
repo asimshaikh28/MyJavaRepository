@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<% out.print("Build no :"+System.getenv("BUILD_NUMBER")); %>
+<% out.print("Build no :"+System.getenv("BUILD_NO")); %>
 
 </body>
 </html>
